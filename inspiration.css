@@ -1,0 +1,40 @@
+
+/* Name: Mai Tran
+Due date: March 12, 2023
+Section: CST8285
+Lab number: 304
+File name: inspiration.css
+Description: This css file is to customize the page style */
+
+
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+    background-color: antiquewhite;
+}
+
+#outer {
+    border: solid;
+    border-radius: 15pt;
+    background-color: rgb(156, 179, 154);
+    padding: 20px;
+}
+
+#quote {
+    text-align: center;
+    font-size: larger;
+}
+
+#author {
+    text-align: right;
+    font-style: italic;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    border: solid;
+    border-radius: 15pt;
+    padding: 6px 10px 6px 10px;
+    text-align: center;
+}
